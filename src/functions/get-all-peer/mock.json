@@ -1,0 +1,7 @@
+{
+  "headers": {
+    "Content-Type": "application/json"
+  },
+  "pathParameters": "{\"chanelId\":\"hieunvtest\" }",
+  "body": "{}"
+}

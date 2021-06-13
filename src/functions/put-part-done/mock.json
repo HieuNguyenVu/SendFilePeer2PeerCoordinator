@@ -1,0 +1,9 @@
+{
+  "headers": {
+    "Content-Type": "application/json"
+  },
+  "pathParameters": {
+    "chanelId": "a38fb307-2e02-4a"
+  },
+  "body": "{    \"peerId\": \"hieunvtest3\",    \"fileId\": \"anyfile12345\",    \"partId\": \"3\"}"
+}
